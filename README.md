@@ -168,7 +168,7 @@ docker run -d -p 8000:8080 --restart=always --cap-add=SYS_ADMIN --name=dillinger
 
 ## License
 
-**BLOG PROJECT !**
+**Todo PROJECT !**
 
 [//]: # (Variable)
 [RTool]: <https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi>
